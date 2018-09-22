@@ -1,5 +1,5 @@
 _repo: 813-Arsene-Lupinin-merkilliset-seikkailut_55203
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hämeen-Anttila, Väinö
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55203#813-Arsene-Lupinin-merkilliset-seikkailut
 gutenberg_issued: '2017-07-26'
 gutenberg_type: Text
 identifiers:
