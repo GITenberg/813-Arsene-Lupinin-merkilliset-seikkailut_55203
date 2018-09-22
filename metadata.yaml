@@ -1,0 +1,35 @@
+_repo: 813-Arsene-Lupinin-merkilliset-seikkailut_55203
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hämeen-Anttila, V.
+    - Hameen-Anttila, Vaino
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_issued: '2017-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55203'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '813
+
+  Arsène Lupinin merkilliset seikkailut'
+url: http://www.gutenberg.org/ebooks/55203
